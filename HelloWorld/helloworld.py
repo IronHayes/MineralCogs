@@ -7,6 +7,6 @@ class HelloWorld(commands.Cog):
         self.bot = bot
 
     @commands.command()
-    async def test(self):
+    async def test(self, ctx):
         """Returns 'Hello World!' in the channel"""
         await ctx.send("Hello World!")
