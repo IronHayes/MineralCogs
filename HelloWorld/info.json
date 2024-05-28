@@ -1,12 +1,10 @@
 {
-    "name": "Hello World",
-    "author": ["Iron"],
-    "version": "1.0.0",
-    "description": "A simple cog to test redcore and github repos",
-    "requirements": [],
-    "type": "COG",
-    "tags": ["test"],
-    "min_python_version": [3, 8, 0],
-    "min_bot_version": "3.1.8",
-    "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+    "author" : ["Iron (@ironsona)"],
+    "install_msg" : "This is just a test cog for myself but feel free to use to test it out!",
+    "name" : "Hello World",
+    "short" : "Says 'Hello World!'",
+    "requirements" : [],
+    "description" : "Says 'Hello World!' in the channel you used the command. Used for testing",
+    "permissions" : ["send_message"],
+    "tags" : ["test"]
 }
