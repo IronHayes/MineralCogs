@@ -1,0 +1,10 @@
+{
+    "author" : ["Iron (@ironsona)"],
+    "install_msg" : "This is just a test cog for myself but feel free to use to test it out!",
+    "name" : "Hello World",
+    "short" : "Says 'Hello World!'",
+    "requirements" : [],
+    "description" : "Says 'Hello World!' in the channel you used the command. Used for testing",
+    "permissions" : ["send_message"],
+    "tags" : ["test"]
+}
